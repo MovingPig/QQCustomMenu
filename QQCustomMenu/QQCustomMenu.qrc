@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/busy.png</file>
+        <file>Resources/hide.png</file>
+        <file>Resources/message.png</file>
+        <file>Resources/offLine.png</file>
+        <file>Resources/lock.png</file>
+    </qresource>
+</RCC>
